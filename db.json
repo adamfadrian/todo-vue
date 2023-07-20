@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password3"
+    },
+    {
+      "username": "123@1.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "123@1.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "user1",
+      "password": "password1",
+      "id": 6
+    },
+    {
+      "username": "user1",
+      "password": "password1",
+      "id": 7
+    },
+    {
+      "username": "user1",
+      "password": "password1",
+      "id": 8
+    }
+  ],
+  "register": []
+}

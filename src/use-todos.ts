@@ -4,8 +4,8 @@ import { onMounted, reactive } from 'vue'
 export interface Todo {
   id?: string
   order?: number
-  content?: string
-  description?: string
+  content: string
+  description: string
   projectId?: string
   isCompleted?: boolean
   labels?: string[]
